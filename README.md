@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waspRyo&theme=chartreuse-dark&show_icons=true
 )](https://github.com/waspRyo/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=waspRyo&margin-w=15)](https://github.com/waspRyo/github-profile-trophy)
+
