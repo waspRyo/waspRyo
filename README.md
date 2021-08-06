@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=waspRyo&margin-w=15)](https://github.com/waspRyo/github-profile-trophy)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 
 <h1 align="center">Hi 👋, I'm Ryo Sugimoto</h1>
