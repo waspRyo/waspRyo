@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ### Most Used Languages :
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waspryo&layout=compact&hide=html,css&theme=dark)](https://github.com/xaster-Kies/github-readme-stats)
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waspryo&layout=compact&hide=html,css&theme=dark)](https://github.com/waspryo/github-readme-stats)
 
 
 ### Graph stats :
