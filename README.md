@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I think I'm optimist**
 
 
-<p align="center">
+<div style="display: flex; text-align:center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=waspRyo&theme=chartreuse-dark&show_icons=true" alt="waspryo" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waspryo&theme=dark" alt="waspryo" />
-</p>
+</div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waspryo&layout=compact&hide=html,css&theme=dark" alt="waspryo" />  
 
 <p align="center">
