@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waspRyo&theme=chartreuse-dark&show_icons=true
 )](https://github.com/waspRyo/github-readme-stats)
 
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=waspryo&show_icons=true&locale=en&theme=dark" alt="waspryo" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=waspryo&theme=dark" alt="waspryo" />
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=waspRyo&margin-w=15)](https://github.com/waspRyo/github-profile-trophy)
 
 
@@ -37,17 +43,8 @@ Here are some ideas to get you started:
 
 
 ### Most Used Languages :
-<p align="center">
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waspryo&layout=compact&hide=html,css&theme=dark)](https://github.com/waspryo/github-readme-stats)
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=waspryo&show_icons=true&locale=en&theme=dark" alt="waspryo" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waspryo&theme=dark" alt="waspryo" />
-</p>
 
 
-<p align="center">
 [![fotiecodes's github activity graph](https://activity-graph.herokuapp.com/graph?username=waspryo&theme=xcode)](https://github.com/FotieMConstant)
-</p>
 
