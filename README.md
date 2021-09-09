@@ -26,12 +26,9 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I think I'm optimist**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waspRyo&theme=chartreuse-dark&show_icons=true
-)](https://github.com/waspRyo/github-readme-stats)
-
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=waspryo&show_icons=true&locale=en&theme=dark" alt="waspryo" />
+<img src="https://github-readme-stats.vercel.app/api?username=waspRyo&theme=chartreuse-dark&show_icons=true" alt="waspryo" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=waspryo&theme=dark" alt="waspryo" />
 </p>
 
