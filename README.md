@@ -28,12 +28,15 @@ Here are some ideas to get you started:
 
 
 <div style="display: flex; text-align:center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waspryo&layout=compact&hide=html,css&theme=dark" alt="waspryo" />  
+</div>
+<div style="display: flex; text-align:center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=waspRyo&theme=chartreuse-dark&show_icons=true" alt="waspryo" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waspryo&theme=dark" alt="waspryo" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waspryo&layout=compact&hide=html,css&theme=dark" alt="waspryo" />  
 
-<div style="width: 800px">
+
+<div>
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=waspRyo&&row=7" alt="waspryo" />
 </div>
 
