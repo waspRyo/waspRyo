@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waspRyo&margin-w=15" alt="waspryo" />
+  <img src="https://github-profile-trophy.vercel.app/?username=waspRyo&margin-w=10" alt="waspryo" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
