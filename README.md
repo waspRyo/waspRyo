@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=waspryo&theme=dark" alt="waspryo" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=waspRyo&margin-w=15)](https://github.com/waspRyo/github-profile-trophy)
+
+<img src="https://github-profile-trophy.vercel.app/?username=waspRyo&margin-w=15" alt="waspryo" />
 
 
 <h3 align="left">Languages and Tools:</h3>
