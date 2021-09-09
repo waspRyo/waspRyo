@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 <div>
-  <img width="250px" src="https://github-profile-trophy.vercel.app/?username=waspRyo&&row=7" alt="waspryo" />
+  <img width="550px" src="https://github-profile-trophy.vercel.app/?username=waspRyo&&row=7" alt="waspryo" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
