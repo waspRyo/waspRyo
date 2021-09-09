@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waspryo&layout=compact&hide=html,css&theme=dark" alt="waspryo" />  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waspRyo&&row=7" alt="waspryo" />
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=waspRyo&&row=7" alt="waspryo" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
