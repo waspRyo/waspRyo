@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryo Sugimoto</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
-- 🔭 I’m currently working on [Cyberagent group](https://cyberagent.ai/)
+- 🔭 I was currently working on [Cyberagent group](https://cyberagent.ai/)
 - 🌱 I’m currently learning **Go/Gin**
 - 💬 Ask me about **anything, I am happy to help**
 - 📫 How to reach me: **sugimotobs0718@gmail.com**
