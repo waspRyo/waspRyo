@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **visa sponsorship in Aus**
 
-- 📫 How to reach me **https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile**
+- 📫 How to reach me **https://www.linkedin.com/in/ryosugimoto/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
